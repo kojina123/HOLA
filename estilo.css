@@ -5,11 +5,11 @@
 }
 
 body{
-    background-image:url(/2021/Informatica/informatic/Diseño/luke-chesser-3rWagdKBF7U-unsplash.jpg) ;
+    background-image:url(unsplash.jpg) ;
 }
 
 header{
-    background: url(/2021/Informatica/informatic/Diseño/virtual-reality.gif);
+    background: url(virtual-reality.gif);
 height: 450px;
 background-size: cover;
 background-repeat: no-repeat;
